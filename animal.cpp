@@ -2,6 +2,6 @@
 
 void Animal::callOut()
 {
-    cout << "Eläin ääntelee" <<endl;
+    cout << "Eläin ääntelee" <<endl; //ääkköset eivät toimi
 
 }
